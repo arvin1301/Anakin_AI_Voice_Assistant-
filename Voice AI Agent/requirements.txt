@@ -1,0 +1,9 @@
+speechrecognition
+pyttsx3
+pyaudio
+requests
+wikipedia
+python-dotenv
+openai
+opencv-python
+streamlit
